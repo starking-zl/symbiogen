@@ -11,7 +11,7 @@
 
 ## 快速开始 · Quick Start
 
-    git clone https://github.com/你的用户名/symbiogen.git
+    git clone https://github.com/starking-zl/symbiogen.git
     cd symbiogen
     pip install -r requirements.txt
     python scripts/init_colony.py
